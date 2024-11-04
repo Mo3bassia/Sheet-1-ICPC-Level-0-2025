@@ -6,7 +6,8 @@ I'm very proud to share that this is my first time solving a problem set, and I 
 
 | **Letter** | **Problem Name**   |
 | ---------- | ------------------ |
-| B          | Say Hello With C++ |
+| A          | Say Hello With C++ |
+| B          | ABCxxx             |
 | C          | Basic Data Types   |
 | D          | 2^N                |
 | E          | Simple Calculator  |
